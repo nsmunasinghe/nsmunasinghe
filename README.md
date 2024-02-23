@@ -74,7 +74,7 @@
 				<img width="150px" src="https://skillicons.dev/icons?i=ps,ai,pr,ae,xd,blender" /> </h2>
 	</summary>
 			<a href="https://www.facebook.com/bioncreativelk">
-					<img alt="logo" width="55px" align="left" src="./bion_symbol.PNG" />
+					<img alt="logo" width="55px" align="left" src="./bion_symbol.svg" />
 			</a>
 			<p align="justify">
 					As the CEO of <b>BION Creative</b>, I am proud to lead a dynamic graphic design company committed to delivering innovative and captivating designs, setting us apart as a creative powerhouse in the industry. Our team of skilled designers breathes life into creativity across a diverse range of projects from striking logos to engaging marketing materials. Combining artistic prowess with strategic thinking, we tailor our approach to meet the unique needs of each client.
