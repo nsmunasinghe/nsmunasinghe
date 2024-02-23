@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nsmunasinghe?label=Followers&color=007c3a&labelColor=5b5b5b&style=for-the-badge&logo=github&logoColor=00ff07"/></a>
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nsmunasinghe?color=ffc000&style=for-the-badge&labelColor=5b5b5b&logo=star&logoColor=ffe100"/></a>
-  <img alt="Profile Views" src="https://vbr.wocr.tk/badge?page_id=https://github.com/nsmunasinghe&color=ff0000&style=for-the-badge&logo=Github&logoColor=ff0000">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=nsmunasinghe&color=ff0000&style=for-the-badge&logo=Github&logoColor=ff0000">
 </p>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4%>  About me 
