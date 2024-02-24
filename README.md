@@ -30,8 +30,8 @@
 
 
 <p align="left">
- <a href="#">
-					<img src="https://img.shields.io/badge/LinkedIn-518bda?style=for-the-badge&logo=linkedin&logoColor=white" />
+	<a href="#">
+		<img src="https://img.shields.io/badge/LinkedIn-518bda?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>  	
 	<a href="https://stackoverflow.com/users/22454562/nimesh-s-munasinghe">
 		<img src="https://img.shields.io/badge/StackOverflow-ff9c00?style=for-the-badge&logo=stackoverflow&logoColor=black" />
@@ -41,12 +41,6 @@
 	</a>
 	<a href="#">
 		<img src="https://img.shields.io/badge/Gmail-5b5b5b?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-	<a href="https://www.facebook.com/nsmunasinghe">
-		<img src="https://img.shields.io/badge/Facebook-006fff?style=for-the-badge&logo=facebook&logoColor=white" />
-	</a>  
-	<a href="https://www.instagram.com/nsmunasinghe">
-		<img src="https://img.shields.io/badge/Instagram-ff004f?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
 </p>
 <br/>
