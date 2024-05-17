@@ -48,13 +48,15 @@
 ## 💻 Languages and Frameworks &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java,hibernate,spring,html,css,javascript,typescript,swift,nodejs,react,angular,express,jquery" />
-	<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,python,qt,django,scikitlearn,tensorflow,mysql,sqlite,postgresql,mongodb,php,git,markdown" />
+	<img src="https://skillicons.dev/icons?i=java,hibernate,spring,c,cs,cpp,dotnet,html,css,javascript,typescript,swift" />
+	<img src="https://skillicons.dev/icons?i=nodejs,react,angular,express,jquery,bootstrap,tailwind,python,qt,django,scikitlearn,tensorflow" />
+	<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,php,git,markdown" />
 </p>
 
-## 🧰 Tools
+## 🧰 Tools and Services
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,anaconda,postman,linux,figma,github,bash,replit" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm,webstorm,phpstorm,rider,eclipse,sublime,anaconda,postman,maven" />
+<img src="https://skillicons.dev/icons?i=figma,github,gitlab,docker,aws,firebase,selenium,linux,replit" />
 
 ## 📟 GitHub Stats &nbsp; <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px>
 
