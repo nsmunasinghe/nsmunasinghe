@@ -56,8 +56,8 @@
 ## 🧰 Tools and Services
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm,webstorm,phpstorm,rider,eclipse,sublime,anaconda" />
-	<img src="https://skillicons.dev/icons?i=postman,maven,figma,github,gitlab,docker,aws,firebase,selenium,linux,replit" />
+	<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm,webstorm,phpstorm,rider,eclipse,sublime,anaconda,postman" />
+	<img src="https://skillicons.dev/icons?i=wordpress,maven,figma,github,gitlab,docker,aws,firebase,selenium,linux,replit" />
 </p>
 
 ## 📟 GitHub Stats &nbsp; <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px>
