@@ -49,8 +49,9 @@
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,swift,html,css,javascript,typescript,php" />
-	<img src="https://skillicons.dev/icons?i=hibernate,spring,nodejs,react,angular,express,jquery,bootstrap,tailwind,qt" />
-	<img src="https://skillicons.dev/icons?i=django,scikitlearn,tensorflow,mysql,sqlite,postgresql,mongodb,git,markdown" />
+	<img src="https://skillicons.dev/icons?i=hibernate,spring,nodejs,react,angular,vue,express,jquery,laravel,bootstrap" />
+	<img src="https://skillicons.dev/icons?i=tailwind,qt,django,scikitlearn,tensorflow,mysql,sqlite,postgresql,mongodb,git" />  
+	<img src="https://skillicons.dev/icons?i=markdown" />
 </p>
 
 ## 🧰 Tools and Services
