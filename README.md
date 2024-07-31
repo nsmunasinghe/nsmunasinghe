@@ -48,10 +48,9 @@
 ## 💻 Languages and Frameworks &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,swift,html,css,javascript,typescript,php" />
-	<img src="https://skillicons.dev/icons?i=hibernate,spring,nodejs,react,angular,vue,express,jquery,laravel,bootstrap" />
-	<img src="https://skillicons.dev/icons?i=tailwind,qt,django,scikitlearn,tensorflow,mysql,sqlite,postgresql,mongodb,git" />  
-	<img src="https://skillicons.dev/icons?i=markdown" />
+	<img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,swift,html,css,javascript,typescript,php,laravel" />
+	<img src="https://skillicons.dev/icons?i=hibernate,spring,nodejs,react,angular,vue,express,jquery,bootstrap,tailwind,qt," />
+	<img src="https://skillicons.dev/icons?i=django,scikitlearn,tensorflow,mysql,sqlite,postgresql,mongodb,git,markdown" />
 </p>
 
 ## 🧰 Tools and Services
